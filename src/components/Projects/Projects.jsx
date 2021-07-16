@@ -119,7 +119,7 @@ const Projects = () => {
                       <h3 className="project-wrapper__text-title">{'Data Vision'}</h3>
                       <div>
                         <p dangerouslySetInnerHTML={{__html: 'Data Vision is a business management tool. It provides a variety of <Strong>data visualization</Strong> features, which helps the managers to identify the financial trend and project schedule of their business.'}}/>
-                        <p dangerouslySetInnerHTML={{__html: 'The UI layout is developed with <Strong>React, sass</Strong> and <Strong>bootstrap</Strong>. It uses <Strong>react-router<Strong> to navigate between components, and uses <Strong>Loadable<Strong> to apply dynamic import to improve performance.'}}/>
+                        <p dangerouslySetInnerHTML={{__html: 'The UI layout is developed with <Strong>React, sass</Strong> and <Strong>bootstrap</Strong>. It uses <Strong>react-router</Strong> to navigate between components, and uses <Strong>Loadable</Strong> to apply dynamic import to improve performance.'}}/>
                         <p dangerouslySetInnerHTML={{__html: 'It uses <Strong>NVD3</Strong> and <Strong>Devextreme</Strong> to draw the complex charts and tables.'}}/>
 
                       </div>
